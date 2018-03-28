@@ -1,0 +1,4 @@
+const constant = 3;
+var variable;
+procedure proc;;
+Read (proc) .
